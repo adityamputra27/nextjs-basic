@@ -34,3 +34,47 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+These, are included all of the fundamentals in Next.js from (https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
+
+- Project structure
+- Routing
+- Nested Routes
+- Dynamic Routes
+- Nested Dynamic Routes
+- Catch all Segments
+- Custo m Not Found Page
+- File Colocation
+- Private Folders
+- Route Groups
+- Layouts
+- Nested Layouts
+- Route Group Layout
+- Routing Metadata
+- Title Metadata
+- Link Component Navigation
+- Active Links
+- Navigating Programmatically
+- Templates
+- Loading UI
+- Error Handling
+- Recovering from Errors
+- Handling Errors in Nested Routes
+- Handling Errors in Layouts
+- Parallel Routes
+- Unmatched Routes
+- Conditional Routes
+- Intercepting Routes
+- Parallel Intercepting Routes
+- Route Handlers
+- Handling GET Request
+- Handling POST Request
+- Dynamic Route Handlers
+- Handling PATCH Request
+- Handling DELETE Request
+- URL Query Parameters
+- Redirects in Route Handlers
+- Headers in Route Handlers
+- Cookies in Route Handlers
+- Caching in Route Handlers
+- Middleware
